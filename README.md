@@ -10,7 +10,7 @@ Whether you teach young learners, teenagers, or adults, these resources can help
 
 Practical vocabulary lists organized by topic, with useful definitions and examples.
 
-- [Jobs and Occupations](vocabulary/jobs.html)
+- [Jobs and Occupations](vocabulary/jobs.md)
 - [School Objects](vocabulary/school-objects.md)
 - [Food and Drinks](vocabulary/food-and-drinks.md)
 
