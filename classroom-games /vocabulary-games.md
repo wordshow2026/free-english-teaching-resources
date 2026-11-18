@@ -1,4 +1,7 @@
-
+---
+title: Vocabulary Games
+permalink: /classroom-games/vocabulary-games.html
+---
 # 10 Fun Vocabulary Games for English Classrooms
 
 Vocabulary games are an effective way to help students learn, remember, and use new English words. They make lessons more interactive, encourage communication, and give students opportunities to practice vocabulary in meaningful contexts.
