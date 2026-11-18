@@ -1,4 +1,7 @@
-
+---
+title: Food and Drinks
+permalink: /vocabulary/food-and-drinks.html
+---
 # Food and Drinks: English Vocabulary
 
 Food and drinks are important topics in everyday English communication. Learning food vocabulary helps students talk about meals, describe their favorite foods, order at restaurants, and discuss healthy eating habits.
