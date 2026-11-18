@@ -1,5 +1,6 @@
 ---
 title: Jobs and Occupations
+permalink: /vocabulary/jobs.html
 ---
 
 
