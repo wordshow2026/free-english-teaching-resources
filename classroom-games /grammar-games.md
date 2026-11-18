@@ -1,4 +1,7 @@
-
+---
+title: Grammar Games
+permalink: /classroom-games/grammar-games.html
+---
 # 10 Fun Grammar Games for English Classrooms
 
 Grammar games help students understand and practice English grammar in an engaging and interactive way. Instead of simply memorizing rules, students can use grammar structures to communicate, solve problems, and work together.
