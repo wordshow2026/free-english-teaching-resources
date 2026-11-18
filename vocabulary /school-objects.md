@@ -1,3 +1,7 @@
+---
+title: School Objects
+permalink: /vocabulary/school-objects.html
+---
 
 # School Objects: English Vocabulary
 
