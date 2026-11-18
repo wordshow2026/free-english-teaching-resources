@@ -10,22 +10,22 @@ Whether you are preparing a vocabulary lesson, teaching English grammar, or look
 Explore practical vocabulary lists with definitions, example sentences, and classroom activity ideas.
 
 - [Jobs and Occupations](vocabulary/jobs.html)
-- [School Objects](vocabulary/school-objects.md)
-- [Food and Drinks](vocabulary/food-and-drinks.md)
+- [School Objects](vocabulary/school-objects.html)
+- [Food and Drinks](vocabulary/food-and-drinks.html)
 
 ## English Grammar Lessons
 
 Find clear grammar explanations, useful examples, common mistakes, and practice activities.
 
-- [Adverbs of Frequency](grammar/adverbs-of-frequency.md)
-- [Present Simple Tense](grammar/present-simple.md)
+- [Adverbs of Frequency](grammar/adverbs-of-frequency.html)
+- [Present Simple Tense](grammar/present-simple.html)
 
 ## Classroom Games and Activities
 
 Discover simple games that can help students practise English through interaction and participation.
 
-- [10 Vocabulary Games for English Classrooms](classroom-games/vocabulary-games.md)
-- [10 Grammar Games for English Classrooms](classroom-games/grammar-games.md)
+- [10 Vocabulary Games for English Classrooms](classroom-games/vocabulary-games.html)
+- [10 Grammar Games for English Classrooms](classroom-games/grammar-games.html)
 
 ## More Interactive English Learning Activities
 
