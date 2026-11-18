@@ -9,7 +9,7 @@ Whether you are preparing a vocabulary lesson, teaching English grammar, or look
 
 Explore practical vocabulary lists with definitions, example sentences, and classroom activity ideas.
 
-- [Jobs and Occupations](vocabulary/jobs.md)
+- [Jobs and Occupations](vocabulary/jobs.html)
 - [School Objects](vocabulary/school-objects.md)
 - [Food and Drinks](vocabulary/food-and-drinks.md)
 
