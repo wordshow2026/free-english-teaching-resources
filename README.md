@@ -1,2 +1,8 @@
-# free-english-teaching-resources
-Free English teaching resources, vocabulary activities, classroom games, and practical ideas for ESL teachers.
+## Interactive Learning Activities
+
+Looking for interactive English learning games?
+
+Explore WordShow to create quizzes, vocabulary games,
+and classroom activities for your students.
+
+https://wordshow.net
