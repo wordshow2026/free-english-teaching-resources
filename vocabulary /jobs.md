@@ -1,4 +1,4 @@
-
+title: Jobs and Occupations
 # Jobs and Occupations: English Vocabulary
 
 Learning vocabulary about jobs and occupations helps students talk about people's work, describe different professions, and discuss future career plans.
